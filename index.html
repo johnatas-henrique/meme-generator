@@ -12,22 +12,25 @@
 <body>
 
   <header>
-    <h1 id="topo" class="titulo">
-      Projeto Meme Generator
-    </h1>
+    <h1 id="topo" class="titulo"> Meme Generator </h1>
   </header>
 
   <section class="container">
     <form class="centralizar">
-      <label for="caixa-input">
-        <h2 class="texto-info">Digite a frase: </h2></label>
-      <input class="caixa-texto-input" id="caixa-input" type="text" name="frase" placeholder="Digite aqui sua frase"
-        maxlength="100" size="60">
-      <span class="texto-info">Selecione uma foto:</span>
-      <input class="esconder-caixa" type="file" id="botao-foto">
-      <label for="botao-foto">
-        <h3>Clica aqui!</h3>
-      </label>
+      <div class="flex-container">
+        <label for="caixa-input">
+          <h2 class="texto-info">Digite a frase: </h2>
+        </label>
+        <input class="caixa-texto-input" id="caixa-input" type="text" name="frase" placeholder="Digite aqui sua frase"
+          maxlength="100" size="60">
+      </div>
+      <div class="flex-container">
+        <span class="texto-info">Selecione uma foto:</span>
+        <input class="esconder-caixa" type="file" id="botao-foto">
+        <label for="botao-foto">
+          <h3>Clica aqui!</h3>
+        </label>
+      </div>
     </form>
   </section>
 
