@@ -9,6 +9,25 @@ Lembro de ter ficado muito feliz com o resultado, esse projeto foi feito em Nove
 
 ---
 
+## Instalação do projeto localmente
+
+Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _johnatas.henrique@gmail.com_.
+
+1. Abra o terminal e crie um diretório no local de sua preferência com o comando **mkdir**:
+```javascript
+  mkdir projetos-johnatas
+```
+
+2. Entre no diretório que acabou de criar e depois clone o projeto:
+```javascript
+  cd projetos-johnatas
+  git clone git@github.com:johnatas-henrique/meme-generator.git
+```
+
+3. Abra o diretório do projeto clonado e dê duplo clique no arquivo **index.html** e o projeto vai abrir em seu navegador, não é necessário instalar nada mais.
+
+---
+
 ## Requisitos do projeto
 
 Você deve criar um site que permita o upload de uma imagem e a inserção de um texto sobre ela, estilizado de forma apropriada. Em outras palavras, um meme generator. Abaixo seguem os requisitos:
