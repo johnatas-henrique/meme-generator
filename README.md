@@ -7,6 +7,8 @@ Esse foi o primeiro projeto em HTML, CSS e JS que fiz, tem um valor sentimental 
 
 Lembro de ter ficado muito feliz com o resultado, esse projeto foi feito em Novembro/2019, hoje em dia, olho pro código dele e acho que outra pessoa que foi quem fez ele, tamanha a evolução do meu conhecimento desde que comecei.
 
+---
+
 ## Requisitos do projeto
 
 Você deve criar um site que permita o upload de uma imagem e a inserção de um texto sobre ela, estilizado de forma apropriada. Em outras palavras, um meme generator. Abaixo seguem os requisitos:
